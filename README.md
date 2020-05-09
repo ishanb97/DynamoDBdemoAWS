@@ -1,4 +1,9 @@
-         ___        ______     ____ _                 _  ___  
+  This project has been developed using the cloud9 IDE on AWS, check their and DynamoDB docs for greater understanding.
+  
+  
+  
+  
+  ___        ______     ____ _                 _  ___  
         / \ \      / / ___|   / ___| | ___  _   _  __| |/ _ \ 
        / _ \ \ /\ / /\___ \  | |   | |/ _ \| | | |/ _` | (_) |
       / ___ \ V  V /  ___) | | |___| | (_) | |_| | (_| |\__, |
